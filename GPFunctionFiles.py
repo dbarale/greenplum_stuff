@@ -1,19 +1,3 @@
-########################## TEST DATA ##############################
-'''
-Normal File Path
-C:\\Users\\rachel.ayersman\\Documents\\Dev Work\\GPDump.txt
-
-File Folder
-C:\\Users\\rachel.ayersman\\Desktop\\GPDumpFiles
-
-Test Missing End
-C:\\Users\\rachel.ayersman\\Documents\\Dev Work\\GPDumpAlterFnRemove.txt
-
-Test Missing Begin
-C:\\Users\\rachel.ayersman\\Documents\\Dev Work\\GPDumpTypeFnRemove.txt
-'''
-###################################################################
-
 from datetime import datetime
 import os
 
